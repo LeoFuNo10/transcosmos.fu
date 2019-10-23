@@ -1,0 +1,235 @@
+2019-10.23
+    1  pwd
+    2  ll
+    3  touch index.jsp
+    4  ll
+    5  history
+    6  echo hello git > f3.txt
+    7  cat f3.txt
+    8  echo world is nice >> f3.txt
+    9  cat f3.txt
+   10  git config -l
+   11  git config --system --list
+   12  git config --global user.name "xubei"
+   13  git config --global user.email xu.bei@trans-cosmos.com.cn
+   14  ls
+   15  cd ..
+   16  cd ..
+   17  ls
+   18  ls
+   19  cd ./repository
+   20  cd c:\program files\Git
+   21  cd d:
+   22  ls
+   23  cd ./repository
+   24  mkdir test
+   25  ls
+   26  cd ./test
+   27  git init
+   28  ls
+   29  git stutes f3.txt
+   30  git branch
+   31  ll
+   32  git branch
+   33  cd ..
+   34  cd d:
+   35  git branch
+   36  git checkout -b div
+   37  git checkout -b [div]
+   38  git checkout -b [branch]
+   39  git bramch
+   40  git branch
+   41  git clone https://github.com/LeoFuNo10/transcosmos.fu.git
+   42  cd ./e/xubei
+   43  cd ./e/xubei/
+   44  cd ./e
+   45  cd ..
+   46  cd ..
+   47  cd ..
+   48  cd ./e/xubei/
+   49  git clone https://github.com/LeoFuNo10/transcosmos.fu.git
+   50  cd ./transcosmos.fu
+   51  git chockout -b brcxb
+   52  git checkout -b brcxb
+   53  cd ~/.ssh
+   54  ssh-keygen -t rsa
+   55  git remote add origin git@github.com:LeoFuNo10/transcosmos.fu.git
+   56  cd e
+   57  git remote add origin git@github.com:LeoFuNo10/transcosmos.fu.git
+   58  cd xubei
+   59  git remote add origin git@github.com:LeoFuNo10/transcosmos.fu.git
+   60  git init
+   61  git remote add origin git@github.com:LeoFuNo10/transcosmos.fu.git
+   62  git branch
+   63  cd transcosmos.fu
+   64  cd ..
+   65  cd transcosmos.fu
+   66  git remote add origin git@github.com:LeoFuNo10/transcosmos.fu.git
+   67  git rm origin
+   68  git remote rm origin
+   69  git remote add origin git@github.com:LeoFuNo10/transcosmos.fu.git
+   70  git pull
+   71  git clone https://github.com/LeoFuNo10/transcosmos.fu.git
+   72  cd transcosmos.fu
+   73  git checkout -b brcxb
+   74  cd ~/.ssh
+   75  cd ~/.ssh
+   76  ssh-keygen -t rsa
+   77  git remote rm origin
+   78  cd transcosmos.fu
+   79  cd
+   80  cd
+   81  cd transcosmos.fu
+   82  git remote rm origin
+   83  git remote add origin git@github.com:LeoFuNo10/transcosmos.fu.git
+   84  git pull
+   85  git push --set-upstream origin brcxb
+   86  git pull
+   87  git add .
+   88  git commit -m "12345"
+   89  git add .
+   90  git commit -m "12345"
+   91  git commit -m "12"
+   92  git branch
+   93  git checkout -b brcxb
+   94  git add .
+   95  git commit -m "12"
+   96  cd ..
+   97  cd ./e/xubei
+   98  cd ./e/xubei/
+   99  history
+  100  git clone https://github.com/LeoFuNo10/transcosmos.fu.git
+  101  cd ./transcosmos.fu
+  102  git branch 
+  103  git branch -b
+  104  git branch -r
+  105  git branch brcxb
+  106  git push --set-upstream origin brcxb
+  107  git clone git@github.com:LeoFuNo10/transcosmos.fu.git
+  108  cd ..
+  109  git clone git@github.com:LeoFuNo10/transcosmos.fu.git
+  110  cd ./transcosmos.fu
+  111  git branch brcxb
+  112  git push origin brcxb
+  113  git branch -r
+  114  git branch -r
+  115  vim xb.txt
+  116  cd ../..
+  117  cd ..
+  118  cd e:/xubei
+  119  cd transcosmos.fu
+  120  git push
+  121  echo "济南" > xubei.txt
+  122  cat xubei.txt
+  123  ll
+  124  echo "徐蓓5190" >> xubei.txt
+  125  echo "济南" >> xubei.txt
+  126  cat xubei.txt
+  127  cat xubei.txt
+  128  git add .
+  129  git commit -m 111
+  130  git push -u origin brcxb
+  131  git fetch
+  132  cat xubei.txt
+  133  git fetch
+  134  git push -u origin brcxb
+  135  git pull
+  136  cat xubei.txt
+  137  echo "徐蓓5190" >> xubei.txt
+  138  vim xubei.txt
+  139  echo "济南" >> xubei.txt
+  140  git add .
+  141  git commit -m ll
+  142  git push -u origin brcxb
+  143  vim xubei.txt
+  144  vim xubei.txt
+  145  cd
+  146  cd ../..
+  147  cd e
+  148  cd ../
+  149  cd e
+  150  cd xubei
+  151  cd transcosmos.fu
+  152  vim xubei.txt
+  153  git branch -a
+  154  git add xubei.txt
+  155  git checkout brcxb
+  156  git add xubei.txt
+  157  git commit -m
+  158  git push -u origin brcxb
+  159  git commit -m xxx
+  160  git push -u origin brcxb
+  161  git branch -a
+  162  history
+  163  git fetch [remote]
+  164  git remote -v
+  165  cd ../../..
+  166  cd e:/xubei/transcosmos.fu
+  167  git checkout brcxb
+  168  git remote -v
+  169  git fetch [remote]
+  170  cd ../../..
+  171  cd e:/xubei/transcosmos.fu
+  172  history
+  173  cat xubei.txt
+  174  git commit -m
+  175  vim xubei.txt
+  176  git pull
+  177  cd ../../..
+  178  cd e:/xubei/transcosmos.fu
+  179  git history
+  180  history
+  181  git pull git@github.com:LeoFuNo10/transcosmos.fu.git
+  182  cat xubei.txt
+  183  git pull
+  184  git@github.com:LeoFuNo10/transcosmos.fu.git
+  185  git pull
+  186  git@github.com:LeoFuNo10/transcosmos.fu.git
+  187  git pull git@github.com:LeoFuNo10/transcosmos.fu.git
+  188  cd ../../..
+  189  cd e:/xubei/transcosmos.fu
+  190  git branch -a
+  191  git checkout brcxb
+  192  git push
+  193  cat xubei.txt
+  194  echo "12" >> xubei.txt
+  195  git add .
+  196  cat xubei.txt
+  197  git commit -m hhh
+  198  git push 
+  199  git add .
+  200  git commit -m hh
+  201  git push 
+  202  git status
+  203  git diff
+  204  git diff xubei.txt
+  205  cat xubei.txt
+  206  git pull
+  207  cat xubei.txt
+  208  git status
+  209  git diff
+  210  git add .
+  211  git commit -m h
+  212  git push
+  213  git status
+  214  git pull
+  215* 
+  216  git pull
+  217  git diff
+  218  git checkout brcty
+  219  git checkout brcxb
+  220  git push
+  221  git fetch
+  222  Connection timed out
+  223  fatal: Could not read from remote repository.
+  224  Connection timed out
+  225  fatal: Could not read from remote repository.
+  226  $ ssh -T git@github.com
+  227  ssh -T git@github.com
+  228  vim a.txt
+  229  cat a.txt
+  230  ls
+  231  rm xu111.txt
+  232  rm xb111.txt
+  233  ls
+  234  history >> a.txt
